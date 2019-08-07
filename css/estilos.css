@@ -4,3 +4,9 @@ body
 	text-align: center;
 	font-family: "Arial";
 }
+
+#cabecera 
+{
+	background: grey;
+	color: blue;
+}
